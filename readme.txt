@@ -4,7 +4,7 @@ Donate link:
 Tags: woocommerce, e-commerce, ecommerce, shop, shopping, store, prices, sales, edit, editor, manage
 Requires at least: 3.3
 Tested up to: 3.8.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
