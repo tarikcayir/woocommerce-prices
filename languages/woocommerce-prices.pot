@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Prices\n"
+"POT-Creation-Date: 2014-03-15 00:44+1000\n"
+"PO-Revision-Date: 2014-03-15 00:44+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../template.php:15
+msgid "WooCommerce Prices"
+msgstr ""
+
+#: ../template.php:29
+msgid "Action"
+msgstr ""
+
+#: ../template.php:31
+msgid "Regular Price"
+msgstr ""
+
+#: ../template.php:32
+msgid "New Regular Price"
+msgstr ""
+
+#: ../template.php:33
+msgid "Increase Regular Price"
+msgstr ""
+
+#: ../template.php:34
+msgid "Decrease Regular Price"
+msgstr ""
+
+#: ../template.php:36
+msgid "Sale Price"
+msgstr ""
+
+#: ../template.php:37
+msgid "New Sale Price"
+msgstr ""
+
+#: ../template.php:38
+msgid "New Sale Discount"
+msgstr ""
+
+#: ../template.php:39
+msgid "Increase Sale Price"
+msgstr ""
+
+#: ../template.php:40
+msgid "Decrease Sale Price"
+msgstr ""
+
+#: ../template.php:42 ../template.php:63
+msgid "Sale From"
+msgstr ""
+
+#: ../template.php:43
+msgid "New Sale From"
+msgstr ""
+
+#: ../template.php:44
+msgid "Increase Sale From"
+msgstr ""
+
+#: ../template.php:45
+msgid "Decrease Sale From"
+msgstr ""
+
+#: ../template.php:47 ../template.php:67
+msgid "Sale To"
+msgstr ""
+
+#: ../template.php:48
+msgid "New Sale To"
+msgstr ""
+
+#: ../template.php:49
+msgid "Increase Sale To"
+msgstr ""
+
+#: ../template.php:50
+msgid "Decrease Sale To"
+msgstr ""
+
+#: ../template.php:55
+msgid "Value"
+msgstr ""
+
+#: ../template.php:56
+msgid "Enter amount or percentage"
+msgstr ""
+
+#: ../template.php:59
+msgid "Days"
+msgstr ""
+
+#: ../template.php:60
+msgid "Enter number of days"
+msgstr ""
+
+#: ../template.php:74
+msgid "Category"
+msgstr ""
+
+#: ../template.php:87
+msgid "OR"
+msgstr ""
+
+#: ../template.php:89
+msgid "Taxonomy"
+msgstr ""
+
+#: ../template.php:95
+msgid "Term"
+msgstr ""
+
+#: ../template.php:103
+msgid "Edit Prices"
+msgstr ""
+
+#: ../template.php:104
+msgid "Get Prices"
+msgstr ""
+
+#: ../template.php:105
+msgid "Save Prices"
+msgstr ""
+
+#: ../template.php:106
+msgid "Saving products"
+msgstr ""
+
+#: ../template.php:107
+msgid "Products saved"
+msgstr ""
+
+#: ../template.php:113
+msgid "Loading Products"
+msgstr ""
+
+#: ../woocommerce-prices.php:94
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../woocommerce-prices.php:180 ../woocommerce-prices.php:206
+#: ../woocommerce-prices.php:298
+msgid "Security check failed"
+msgstr ""
+
+#: ../woocommerce-prices.php:202 ../woocommerce-prices.php:294
+msgid "WooCommerce Prices requires WooCommerce"
+msgstr ""

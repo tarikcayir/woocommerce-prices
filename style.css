@@ -1,0 +1,127 @@
+/**
+ * Stylesheet for "Woocommerce Prices" Wordpress plugin
+ */
+
+#wooprices #icon-woocommerce-prices {
+	background: url('images/icon.png') no-repeat;
+}	
+
+/* INPUTS */
+
+#wooprices .prices-inputs {
+	margin: 10px 0;
+	overflow: hidden;
+}
+
+#wooprices .inputs-groups {
+	float: left;
+	margin-right: 55px;
+}
+
+#wooprices .inputs-groups div {
+	margin-top: 10px;
+	height: 30px;
+}
+
+#wooprices .inputs-groups label {
+	display: inline-block;
+	width: 70px;
+}
+
+#wooprices .wooprices-input {
+	margin: 0;
+	width: 250px;
+}
+
+#wooprices .sale-days-field {
+	display: none;
+}
+
+#wooprices optgroup {
+	font-style: normal;
+}
+
+#wooprices .select-spacer {
+	margin-left: 70px;
+	line-height: 24px;	
+	text-align: center;
+	width: 250px;
+}
+
+/* BUTTONS */
+
+#wooprices .prices-buttons {
+	overflow: hidden;
+}
+
+#wooprices .button {
+	margin-right: 15px;
+	padding-left: 23px;
+}
+
+#wooprices .edit-button {
+	background: url('images/edit.png') no-repeat;
+}
+
+#wooprices .get-button {
+	background: url('images/get.png') no-repeat;
+}
+
+#wooprices .save-button {
+	background: url('images/save.png') no-repeat;
+}
+
+#wooprices .saving-products {
+	background: url('images/saving.gif') no-repeat;
+	display: none;
+	margin-bottom: 3px;
+	padding-left: 20px;
+}
+
+#wooprices .save-success {
+	background: url('images/success.png') no-repeat;
+	display: none;
+	margin-bottom: 3px;	
+	padding-left: 20px;
+}
+
+/* PRICES */
+
+#wooprices #prices {
+	margin-top: 20px;
+	width: 700px;
+}
+
+#wooprices .prices-loading {
+	display: none;
+	text-align: center;
+}
+
+#wooprices #products-grid {
+	display: none;
+}
+
+#wooprices #products-grid .slick-header-column input {
+	margin-left: 4px;
+}
+
+#wooprices #products-grid .slick-cell-checkboxsel input {
+	vertical-align: middle;
+	margin-left: 3px;
+}
+
+#wooprices #products-grid .editor-text {
+	margin: 0;
+	height: 100%;
+	width: 100%;
+}
+
+#wooprices #products-grid .ui-datepicker-trigger {
+	cursor: pointer;
+	padding: 0 0 5px 3px;	
+	vertical-align: middle;
+}
+
+#wooprices #products-grid .slick-cell.selected {
+	background: inherit;
+}
